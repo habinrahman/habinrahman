@@ -6,8 +6,8 @@ I build systems that run.
 
 ## Systems in production
 
-- Certificate verification system — public verification endpoint
-- Email automation pipelines — batch sending, tracking, and replies
+- Certificate verification system — live API-based validation (public endpoint)
+- Email automation pipelines — batch sending, tracking, and reply detection
 - Intrusion detection system — real-time alerts with image capture
 
 ## Tech
@@ -16,7 +16,7 @@ FastAPI · PostgreSQL · Docker · AWS
 
 ## Portfolio
 
-https://your-real-portfolio-link
+https://yourdomain.com
 
 ## Contact
 
