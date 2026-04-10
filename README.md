@@ -1,23 +1,24 @@
-# Habin Rahman
+# Hi, I'm Habin Rahman 👋
 
-Backend Systems & Cloud Automation Engineer
+🚀 Software Engineer passionate about building scalable, real-world applications.
 
-I build systems that run.
+## 🛠️ Tech Stack
+- **Languages:** Python, Java, JavaScript, Dart, SQL
+- **Frontend:** React, Flutter, Tailwind CSS
+- **Backend:** FastAPI, Spring Boot, Node.js, Express
+- **Databases:** PostgreSQL, MySQL, Supabase
+- **Tools & DevOps:** Docker, GitHub Actions, DigitalOcean, AWS
+- **AI & Data:** OpenCV, Automation, Data Engineering
 
-## Systems in production
+## 🌟 Featured Projects
+- 🔍 **Competition Tracker** – Automated intelligence platform
+- 🎓 **Certificate Verification System** – FastAPI-based verification service
+- 🛡️ **Intruder Detection System** – AI-powered surveillance application
+- 📚 **Online Bookstore** – Full-stack inventory management system
+- 📱 **Flutter Quiz App** – Cross-platform mobile application
+- 💰 **FinGuard** – Secure financial management backend
 
-- Certificate verification system — live API-based validation (public endpoint)
-- Email automation pipelines — batch sending, tracking, and reply detection
-- Intrusion detection system — real-time alerts with image capture
-
-## Tech
-
-FastAPI · PostgreSQL · Docker · AWS
-
-## Portfolio
-
-https://habin-portfolio-9q6re2ckn-habins-projects-2ddf3087.vercel.app/
-
-## Contact
-
-habin936@gmail.com
+## 📫 Connect with Me
+- 🌐 GitHub: https://github.com/habinrahman
+- 💼 LinkedIn: https://www.linkedin.com/in/habinrahman
+- 📧 Email: habin936@gmail.com
