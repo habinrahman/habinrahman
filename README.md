@@ -56,13 +56,6 @@ Full-stack inventory management system built with React, Node.js, and PostgreSQL
 
 ---
 
-## 📊 GitHub Stats
-
-![Habin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habinrahman&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 
 - 🌐 Portfolio: https://habin-portfolio.vercel.app/
