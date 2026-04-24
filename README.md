@@ -100,6 +100,9 @@ Currently exploring:
 - Systems architecture
 
 ---
+## Open Source & Writing (In Progress)
+Exploring open-source contributions and writing about systems architecture,
+automation and reliability engineering.
 
 ## Writing / Architecture Thinking
 Interested in documenting and sharing ideas around:
