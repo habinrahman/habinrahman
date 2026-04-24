@@ -1,9 +1,8 @@
 # Hi, I'm Habin Rahman 👋
 
-🚀 **Software Engineer | Full-Stack, AI & Automation Systems | FastAPI • React • Cloud • Distributed Systems**
+🚀 **Software Engineer building AI, Automation, and Cloud-Native Products**
 
-I am passionate about building scalable, intelligent, and real-world applications using modern technologies. My expertise lies in developing AI-powered platforms, robust backend systems, and cloud-native solutions.
-
+I build production-oriented software across backend systems, automation platforms, AI applications, and distributed services — with a focus on scalable architecture, reliability, and real-world impact.
 ---
 
 ## 🛠️ Tech Stack
@@ -31,8 +30,14 @@ I am passionate about building scalable, intelligent, and real-world application
 ## 🌟 Featured Projects
 
 🚀 MicroDegree Outreach Platform
-Production-grade outreach automation platform featuring autonomous campaign sequencing, reply tracking, observability, analytics, operator controls, and full-stack FastAPI + React architecture.
-🔗 https://github.com/habinrahman/microdegree-outreach-platform
+Production-grade outreach automation platform featuring:
+
+• Autonomous multi-stage campaign sequencing (1/7/14/21 cadence)
+• Reply tracking + suppression workflows
+• Observability and operator controls
+• FastAPI + React + PostgreSQL architecture
+• 500+ HR contact pipeline automation
+• Production readiness, SRE, and launch-gate engineering artifacts
 
 ### 🚀 MyCareer AI – Resume Intelligence & Career Mentorship Platform
 An AI-powered platform that analyzes resumes, provides ATS scoring, offers personalized career mentorship, and benchmarks candidates against industry standards using OpenAI and Supabase.  
