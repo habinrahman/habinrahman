@@ -1,150 +1,129 @@
 # Habin Rahman
 
-**Software Engineer building AI, Automation & Distributed Systems**
+### Software Engineer focused on AI Systems, Automation and Distributed Platforms
 
-I build production-oriented software focused on **automation, backend platforms, reliability, and intelligent systems**.
+I build production-oriented systems at the intersection of:
 
-My interests sit at the intersection of:
-
-- Scalable backend engineering  
-- AI-powered products  
+- Backend platform engineering  
 - Workflow automation systems  
-- Cloud & DevOps platforms  
-- Distributed systems and operability  
+- AI-powered applications  
+- Distributed systems  
+- Reliability and observability  
 
-I enjoy building software that solves real problems — not demos.
+Interested in designing software that is scalable, fault-aware, and useful in the real world.
 
 ---
 
 ## Engineering Principles
 
 - Reliability is a feature  
-- Automation should be auditable  
-- Idempotency over optimism  
 - Simplicity scales  
-- Operability matters as much as features  
-- Product thinking belongs in engineering  
+- Idempotency over optimism  
+- Operability matters  
+- Automation should be auditable  
+- Build systems, not scripts
 
 ---
 
-# Flagship Projects
+## Flagship Projects
 
-## MicroDegree Outreach Platform
-**Production-grade outreach automation and campaign sequencing platform**
+### MicroDegree Outreach Platform
+Production-grade outreach automation platform with:
 
-- Autonomous email sequencing engine  
-- Reply detection and suppression logic  
-- Observability and reliability console  
-- Campaign analytics and operator controls  
-- FastAPI + React + PostgreSQL architecture
+- Autonomous campaign sequencing  
+- Reply intelligence and suppression  
+- Scheduler-driven automation  
+- Observability and reliability controls  
+- Full-stack FastAPI + React architecture
 
-**Focus:** workflow engines, state machines, scheduling, reliability engineering
-
-🔗 https://github.com/habinrahman/microdegree-outreach-platform
+**Focus:** workflow engines, state machines, distributed scheduling
 
 ---
 
-## MyCareer AI
-**AI-powered resume intelligence and career mentorship platform**
+### MyCareer AI
+AI-powered resume intelligence and career mentorship platform.
 
-- ATS analysis and scoring  
-- Resume intelligence workflows  
-- OpenAI + vector search integrations  
-- FastAPI + Next.js + Supabase
-
-🔗 https://github.com/habinrahman/MyCareer-AI
+**Focus:** LLM products, vector search, intelligent workflows
 
 ---
 
-## Competition Tracker
-**Automation platform for competitive intelligence monitoring**
+### Competition Tracker
+Automated intelligence system tracking market and technology signals.
 
-- Multi-source data tracking  
-- Filtering + deduplication engine  
-- Scheduled research automation  
-- Email intelligence delivery
-
-🔗 https://github.com/habinrahman/competition-tracker
+**Focus:** automation, data pipelines, scheduled intelligence
 
 ---
 
-## Certificate Verification System
-**Secure certificate verification platform**
+### Certificate Verification System
+Verification platform for secure digital credentials.
 
-- FastAPI verification APIs  
-- Supabase-backed credential validation  
-- QR-based verification workflows
-
-🔗 https://github.com/habinrahman/certificate-verification
+**Focus:** backend systems, verification workflows
 
 ---
 
-## Intruder Detection System
-**Computer vision security automation system**
+### Intruder Detection System
+Computer vision security automation system.
 
-- OpenCV-based detection  
-- Automated alerting workflows  
-- Real-time surveillance logic
-
-🔗 https://github.com/habinrahman/INTRUDER-DETECTION
+**Focus:** CV + automation
 
 ---
 
-# Technical Focus
-
-## Languages
-Python • Java • JavaScript • SQL • Dart
-
-## Backend & APIs
-FastAPI • Spring Boot • Node.js • REST APIs
-
-## Frontend
-React • Next.js • Flutter • Tailwind
-
-## Databases
-PostgreSQL • MySQL • Supabase
-
-## Cloud / DevOps
-Docker • AWS • GitHub Actions • DigitalOcean
-
-## AI / Data
-OpenAI • pgvector • OpenCV • Automation Systems
-
-## Systems Interests
-Distributed Systems  
-Workflow Engines  
-Observability  
-Platform Engineering  
-Reliability Engineering
-
----
-
-# Selected Engineering Work
+## Architecture Highlights
 
 I enjoy building systems involving:
 
-- Stateful automation workflows  
-- Queue and scheduler driven systems  
-- Email and outreach automation  
-- Backend platform products  
-- Observability-driven tooling  
-- AI-powered product engineering
+- Scheduler-driven workflows  
+- Stateful automation engines  
+- Event-oriented backend systems  
+- Reliability-focused platform services  
+- Observability-driven products  
+- Fault-tolerant system behavior
 
 ---
 
-# Currently Exploring
+## Technical Focus
 
-Currently going deeper into:
+**Languages**  
+Python • Java • JavaScript • SQL
+
+**Backend**  
+FastAPI • Spring Boot • Node.js
+
+**Frontend**  
+React • Next.js • Flutter
+
+**Data**  
+PostgreSQL • MySQL • Supabase
+
+**Cloud / DevOps**  
+Docker • AWS • GitHub Actions • DigitalOcean
+
+**AI / Systems**  
+OpenAI • pgvector • OpenCV • Automation
+
+---
+
+## Currently Exploring
 
 - Distributed systems design  
 - Platform engineering  
 - Workflow orchestration  
 - Applied AI agents  
-- Scalable backend architecture  
+- Reliability engineering
 
 ---
 
-# GitHub Stats
+## Selected Repositories
+
+- MicroDegree Outreach Platform  
+- MyCareer AI  
+- Competition Tracker  
+- Certificate Verification  
+- Intruder Detection  
+
+---
+
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true)
 
@@ -158,14 +137,11 @@ Portfolio
 https://habin-portfolio.vercel.app
 
 LinkedIn  
-https://www.linkedin.com/in/habinrahman
+https://linkedin.com/in/habinrahman
 
 Email  
 habin936@gmail.com
 
-GitHub  
-https://github.com/habinrahman
-
 ---
 
-*"Build things that keep working."*
+**Design for scale. Build for reliability.**
