@@ -31,7 +31,6 @@ I build production-oriented software across backend systems, automation platform
 
 🚀 MicroDegree Outreach Platform
 Production-grade outreach automation platform featuring:
-
 • Autonomous multi-stage campaign sequencing (1/7/14/21 cadence)
 • Reply tracking + suppression workflows
 • Observability and operator controls
