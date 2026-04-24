@@ -1,137 +1,115 @@
 # Habin Rahman
 
-### Software Engineer focused on AI Systems, Automation and Distributed Platforms
+Backend & Platform Engineer focused on automation systems, distributed software and applied AI.
 
-I build production-oriented systems at the intersection of:
+I enjoy building systems where reliability, state, automation and real-world operability matter.
 
-- Backend platform engineering  
-- Workflow automation systems  
-- AI-powered applications  
-- Distributed systems  
-- Reliability and observability  
+---
 
-Interested in designing software that is scalable, fault-aware, and useful in the real world.
+## Areas I Like Working In
+
+- Distributed Systems  
+- Platform Engineering  
+- Workflow Automation  
+- Applied AI Systems  
+- Reliability / Observability  
+- Developer Infrastructure
 
 ---
 
 ## Engineering Principles
 
 - Reliability is a feature  
-- Simplicity scales  
 - Idempotency over optimism  
+- Simplicity scales  
 - Operability matters  
-- Automation should be auditable  
-- Build systems, not scripts
+- Build systems, not scripts  
+- Automation should be explainable
 
 ---
 
-## Flagship Projects
+## Selected Systems
 
 ### MicroDegree Outreach Platform
-Production-grade outreach automation platform with:
+Designed and built a production-style outreach automation platform involving:
 
-- Autonomous campaign sequencing  
-- Reply intelligence and suppression  
-- Scheduler-driven automation  
-- Observability and reliability controls  
-- Full-stack FastAPI + React architecture
+- Scheduler-driven campaign sequencing  
+- Stateful workflow orchestration  
+- Reply intelligence and suppression logic  
+- Reliability controls and observability surfaces  
+- Analytics and operator tooling
 
-**Focus:** workflow engines, state machines, distributed scheduling
+Focus:
+workflow engines • distributed scheduling • backend systems
 
 ---
 
 ### MyCareer AI
-AI-powered resume intelligence and career mentorship platform.
+AI-powered resume intelligence and career guidance platform.
 
-**Focus:** LLM products, vector search, intelligent workflows
+Focus:
+LLM products • retrieval • intelligent workflows
 
 ---
 
 ### Competition Tracker
-Automated intelligence system tracking market and technology signals.
+Signal intelligence automation system for competitive monitoring.
 
-**Focus:** automation, data pipelines, scheduled intelligence
-
----
-
-### Certificate Verification System
-Verification platform for secure digital credentials.
-
-**Focus:** backend systems, verification workflows
+Focus:
+automation • data pipelines • scheduled intelligence
 
 ---
 
-### Intruder Detection System
-Computer vision security automation system.
+## Systems I Like Building
 
-**Focus:** CV + automation
-
----
-
-## Architecture Highlights
-
-I enjoy building systems involving:
-
-- Scheduler-driven workflows  
+- Scheduler-driven systems  
 - Stateful automation engines  
-- Event-oriented backend systems  
-- Reliability-focused platform services  
-- Observability-driven products  
-- Fault-tolerant system behavior
+- Observable backend services  
+- Event-oriented workflows  
+- Fault-tolerant platform software
 
 ---
 
 ## Technical Focus
 
-**Languages**  
-Python • Java • JavaScript • SQL
+Languages:
+Python, Java, JavaScript, SQL
 
-**Backend**  
-FastAPI • Spring Boot • Node.js
+Backend:
+FastAPI, Spring Boot, Node.js
 
-**Frontend**  
-React • Next.js • Flutter
+Data:
+PostgreSQL, MySQL, Supabase
 
-**Data**  
-PostgreSQL • MySQL • Supabase
+Cloud:
+Docker, AWS, DigitalOcean
 
-**Cloud / DevOps**  
-Docker • AWS • GitHub Actions • DigitalOcean
-
-**AI / Systems**  
-OpenAI • pgvector • OpenCV • Automation
+AI:
+OpenAI, pgvector, OpenCV
 
 ---
 
-## Currently Exploring
+## Current Interests
+
+Currently exploring:
 
 - Distributed systems design  
-- Platform engineering  
+- Platform reliability  
 - Workflow orchestration  
-- Applied AI agents  
-- Reliability engineering
+- AI agents  
+- Systems architecture
 
 ---
 
-## Selected Repositories
+## Writing / Architecture Thinking
+Interested in documenting and sharing ideas around:
 
-- MicroDegree Outreach Platform  
-- MyCareer AI  
-- Competition Tracker  
-- Certificate Verification  
-- Intruder Detection  
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habinrahman&layout=compact)
+- system design  
+- reliability thinking  
+- automation architecture  
+- backend engineering
 
 ---
-
-## Connect
 
 Portfolio  
 https://habin-portfolio.vercel.app
@@ -144,4 +122,4 @@ habin936@gmail.com
 
 ---
 
-**Design for scale. Build for reliability.**
+Design for scale. Build for reliability.
