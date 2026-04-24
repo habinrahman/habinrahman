@@ -1,72 +1,171 @@
-# Hi, I'm Habin Rahman 👋
+# Habin Rahman
 
-🚀 **Software Engineer building AI, Automation, and Cloud-Native Products**
+**Software Engineer building AI, Automation & Distributed Systems**
 
-I build production-oriented software across backend systems, automation platforms, AI applications, and distributed services — with a focus on scalable architecture, reliability, and real-world impact.
----
+I build production-oriented software focused on **automation, backend platforms, reliability, and intelligent systems**.
 
-## 🛠️ Tech Stack
+My interests sit at the intersection of:
 
-### 💻 Languages
-- Python, Java, JavaScript, Dart, SQL
+- Scalable backend engineering  
+- AI-powered products  
+- Workflow automation systems  
+- Cloud & DevOps platforms  
+- Distributed systems and operability  
 
-### 🎨 Frontend
-- React, Next.js, Flutter, Tailwind CSS
-
-### ⚙️ Backend
-- FastAPI, Spring Boot, Node.js, Express
-
-### 🗄️ Databases
-- PostgreSQL, MySQL, Supabase
-
-### ☁️ Cloud & DevOps
-- Docker, GitHub Actions, AWS, DigitalOcean
-
-### 🤖 AI & Data
-- OpenAI, pgvector, OpenCV, Automation, Data Engineering
+I enjoy building software that solves real problems — not demos.
 
 ---
 
-## 🌟 Featured Projects
+## Engineering Principles
 
-🚀 MicroDegree Outreach Platform
-Production-grade outreach automation platform featuring:
-• Autonomous multi-stage campaign sequencing (1/7/14/21 cadence)
-• Reply tracking + suppression workflows
-• Observability and operator controls
-• FastAPI + React + PostgreSQL architecture
-• 500+ HR contact pipeline automation
-• Production readiness, SRE, and launch-gate engineering artifacts
+- Reliability is a feature  
+- Automation should be auditable  
+- Idempotency over optimism  
+- Simplicity scales  
+- Operability matters as much as features  
+- Product thinking belongs in engineering  
 
-### 🚀 MyCareer AI – Resume Intelligence & Career Mentorship Platform
-An AI-powered platform that analyzes resumes, provides ATS scoring, offers personalized career mentorship, and benchmarks candidates against industry standards using OpenAI and Supabase.  
+---
+
+# Flagship Projects
+
+## MicroDegree Outreach Platform
+**Production-grade outreach automation and campaign sequencing platform**
+
+- Autonomous email sequencing engine  
+- Reply detection and suppression logic  
+- Observability and reliability console  
+- Campaign analytics and operator controls  
+- FastAPI + React + PostgreSQL architecture
+
+**Focus:** workflow engines, state machines, scheduling, reliability engineering
+
+🔗 https://github.com/habinrahman/microdegree-outreach-platform
+
+---
+
+## MyCareer AI
+**AI-powered resume intelligence and career mentorship platform**
+
+- ATS analysis and scoring  
+- Resume intelligence workflows  
+- OpenAI + vector search integrations  
+- FastAPI + Next.js + Supabase
+
 🔗 https://github.com/habinrahman/MyCareer-AI
 
-### 🔍 Competition Tracker
-Automated intelligence platform tracking EdTech, Cloud, DevOps, and GenAI trends with email automation.  
+---
+
+## Competition Tracker
+**Automation platform for competitive intelligence monitoring**
+
+- Multi-source data tracking  
+- Filtering + deduplication engine  
+- Scheduled research automation  
+- Email intelligence delivery
+
 🔗 https://github.com/habinrahman/competition-tracker
-
-### 🎓 Certificate Verification System
-Secure FastAPI-based system for verifying digital certificates using Supabase and QR codes.  
-🔗 https://github.com/habinrahman/certificate-verification
-
-### 🛡️ Intruder Detection System
-AI-powered surveillance system using OpenCV and facial recognition.  
-🔗 https://github.com/habinrahman/INTRUDER-DETECTION
-
-### 💰 FinGuard
-Production-ready FastAPI backend with JWT authentication and financial analytics.  
-🔗 https://github.com/habinrahman/FinGuard
-
-### 📚 Online Bookstore
-Full-stack inventory management system built with React, Node.js, and PostgreSQL.  
-🔗 https://github.com/habinrahman/online-bookstore
 
 ---
 
-## 📫 Connect with Me
+## Certificate Verification System
+**Secure certificate verification platform**
 
-- 🌐 Portfolio: https://habin-portfolio.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/habinrahman
-- 📧 Email: habin936@gmail.com
-- 🐙 GitHub: https://github.com/habinrahman
+- FastAPI verification APIs  
+- Supabase-backed credential validation  
+- QR-based verification workflows
+
+🔗 https://github.com/habinrahman/certificate-verification
+
+---
+
+## Intruder Detection System
+**Computer vision security automation system**
+
+- OpenCV-based detection  
+- Automated alerting workflows  
+- Real-time surveillance logic
+
+🔗 https://github.com/habinrahman/INTRUDER-DETECTION
+
+---
+
+# Technical Focus
+
+## Languages
+Python • Java • JavaScript • SQL • Dart
+
+## Backend & APIs
+FastAPI • Spring Boot • Node.js • REST APIs
+
+## Frontend
+React • Next.js • Flutter • Tailwind
+
+## Databases
+PostgreSQL • MySQL • Supabase
+
+## Cloud / DevOps
+Docker • AWS • GitHub Actions • DigitalOcean
+
+## AI / Data
+OpenAI • pgvector • OpenCV • Automation Systems
+
+## Systems Interests
+Distributed Systems  
+Workflow Engines  
+Observability  
+Platform Engineering  
+Reliability Engineering
+
+---
+
+# Selected Engineering Work
+
+I enjoy building systems involving:
+
+- Stateful automation workflows  
+- Queue and scheduler driven systems  
+- Email and outreach automation  
+- Backend platform products  
+- Observability-driven tooling  
+- AI-powered product engineering
+
+---
+
+# Currently Exploring
+
+Currently going deeper into:
+
+- Distributed systems design  
+- Platform engineering  
+- Workflow orchestration  
+- Applied AI agents  
+- Scalable backend architecture  
+
+---
+
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habinrahman&layout=compact)
+
+---
+
+## Connect
+
+Portfolio  
+https://habin-portfolio.vercel.app
+
+LinkedIn  
+https://www.linkedin.com/in/habinrahman
+
+Email  
+habin936@gmail.com
+
+GitHub  
+https://github.com/habinrahman
+
+---
+
+*"Build things that keep working."*
