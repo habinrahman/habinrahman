@@ -30,7 +30,7 @@ I am passionate about building scalable, intelligent, and real-world application
 
 ## 🌟 Featured Projects
 
-###🚀 MicroDegree Outreach Platform
+🚀 MicroDegree Outreach Platform
 Production-grade outreach automation platform featuring autonomous campaign sequencing, reply tracking, observability, analytics, operator controls, and full-stack FastAPI + React architecture.
 🔗 https://github.com/habinrahman/microdegree-outreach-platform
 
