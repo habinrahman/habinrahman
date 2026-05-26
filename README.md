@@ -1,91 +1,167 @@
 # Habin Rahman
 
-Backend & Platform Engineer focused on automation systems, distributed software and applied AI.
+Backend & Platform Engineer building operational systems, workflow orchestration platforms, and AI-powered automation infrastructure.
 
-I enjoy building systems where reliability, state, automation and real-world operability matter.
+I enjoy designing systems where reliability, state management, observability, and real-world operability matter as much as feature development. My focus is on building production-grade backend platforms that solve operational problems at scale.
 
 ---
 
 ## Areas I Like Working In
 
-- Distributed Systems  
-- Platform Engineering  
-- Workflow Automation  
-- Applied AI Systems  
-- Reliability / Observability  
-- Developer Infrastructure
+* Backend Architecture
+* Distributed Systems
+* Platform Engineering
+* Workflow Orchestration
+* Operational Tooling
+* Reliability Engineering
+* Observability Systems
+* AI Infrastructure
+* Stateful Systems
+* Automation Platforms
 
 ---
 
 ## Engineering Principles
 
-- Reliability is a feature  
-- Idempotency over optimism  
-- Simplicity scales  
-- Operability matters  
-- Build systems, not scripts  
-- Automation should be explainable
+* Reliability is a feature
+* Idempotency over optimism
+* Simplicity scales
+* Operability matters
+* Build systems, not scripts
+* State transitions should be explicit
+* Automation should be observable and explainable
+* Correctness beats unnecessary complexity
 
 ---
 
 ## Selected Systems
 
-### MicroDegree Outreach Platform
-Designed and built a production-style outreach automation platform involving:
+### MicroDegree Hub
 
-- Scheduler-driven campaign sequencing  
-- Stateful workflow orchestration  
-- Reply intelligence and suppression logic  
-- Reliability controls and observability surfaces  
-- Analytics and operator tooling
+Production-style student operations and cohort orchestration platform built using Next.js, TypeScript, Supabase, PostgreSQL, and service-oriented backend architecture.
+
+Key capabilities:
+
+* Enrollment lifecycle state machines
+* Batch and session orchestration
+* Zoom-integrated live learning workflows
+* Role-based access control (RBAC)
+* Audit logging and operational tooling
+* Cron-driven automation pipelines
+* Student roadmap and onboarding systems
+* Multi-portal operational architecture
 
 Focus:
-workflow engines • distributed scheduling • backend systems
+platform engineering • operational systems • backend architecture • workflow orchestration • scalable monolith design
+
+---
+
+### Placement Outreach Automation Platform
+
+Production-grade outreach automation and campaign sequencing platform designed for high-volume operational workflows.
+
+Key capabilities:
+
+* Scheduler-driven campaign sequencing
+* Stateful workflow orchestration
+* Autonomous follow-up systems
+* Reply intelligence and suppression logic
+* Analytics and operator tooling
+* Reliability controls and observability workflows
+* Email automation infrastructure
+* Batch processing and delivery systems
+
+Focus:
+workflow engines • distributed scheduling • automation infrastructure • backend systems
+
+---
+
+### AI Job Application Tracker
+
+AI-powered job application intelligence platform built using Elixir/Phoenix, Gmail integrations, PostgreSQL, and automation workflows.
+
+Key capabilities:
+
+* Gmail synchronization and classification
+* Interview/rejection detection workflows
+* Analytics dashboards and tracking
+* Application intelligence pipelines
+* Reply-aware automation systems
+* Operational monitoring and workflow orchestration
+
+Focus:
+intelligent workflows • operational automation • backend systems • platform tooling
 
 ---
 
 ### MyCareer AI
-AI-powered resume intelligence and career guidance platform.
+
+AI-powered resume intelligence and career mentorship platform built using FastAPI, Next.js, PostgreSQL, Supabase, and modern AI infrastructure.
+
+Key capabilities:
+
+* Resume intelligence workflows
+* AI-powered career guidance
+* Retrieval and vector-search systems
+* LLM-integrated backend services
+* Structured AI workflow orchestration
 
 Focus:
-LLM products • retrieval • intelligent workflows
+LLM systems • retrieval workflows • AI infrastructure • intelligent automation
 
 ---
 
 ### Competition Tracker
-Signal intelligence automation system for competitive monitoring.
+
+Automated intelligence and monitoring platform designed for competitive research and signal tracking.
+
+Key capabilities:
+
+* Multi-source ingestion pipelines
+* Scheduled intelligence workflows
+* Filtering and deduplication systems
+* Automated email reporting
+* Signal monitoring and classification
 
 Focus:
-automation • data pipelines • scheduled intelligence
+automation • data pipelines • scheduled intelligence • monitoring systems
 
 ---
 
 ## Systems I Like Building
 
-- Scheduler-driven systems  
-- Stateful automation engines  
-- Observable backend services  
-- Event-oriented workflows  
-- Fault-tolerant platform software
+* Scheduler-driven systems
+* Stateful workflow engines
+* Observable backend services
+* Event-oriented architectures
+* Fault-tolerant operational software
+* Internal tooling platforms
+* Automation infrastructure
+* AI-assisted operational systems
 
 ---
 
 ## Technical Focus
 
-Languages:
-Python, Java, JavaScript, SQL
+### Languages
 
-Backend:
-FastAPI, Spring Boot, Node.js
+Python • TypeScript • JavaScript • Java • SQL • Elixir
 
-Data:
-PostgreSQL, MySQL, Supabase
+### Backend & Platform
 
-Cloud:
-Docker, AWS, DigitalOcean
+FastAPI • Spring Boot • Node.js • Phoenix • Next.js
 
-AI:
-OpenAI, pgvector, OpenCV
+### Data & Infrastructure
+
+PostgreSQL • MySQL • Supabase • Drizzle ORM • pgvector
+
+### Cloud & DevOps
+
+Docker • AWS • DigitalOcean • CI/CD • Cron Infrastructure
+
+### AI & Automation
+
+OpenAI • Retrieval Systems • Workflow Automation • OpenCV
 
 ---
 
@@ -93,35 +169,46 @@ OpenAI, pgvector, OpenCV
 
 Currently exploring:
 
-- Distributed systems design  
-- Platform reliability  
-- Workflow orchestration  
-- AI agents  
-- Systems architecture
-
----
-## Open Source & Writing (In Progress)
-Exploring open-source contributions and writing about systems architecture,
-automation and reliability engineering.
-
-## Writing / Architecture Thinking
-Interested in documenting and sharing ideas around:
-
-- system design  
-- reliability thinking  
-- automation architecture  
-- backend engineering
+* Distributed systems design
+* Platform reliability engineering
+* Workflow orchestration systems
+* AI agents and autonomous workflows
+* Systems architecture
+* Event-driven backend systems
+* Infrastructure observability
 
 ---
 
-Portfolio  
+## Open Source & Writing
+
+Exploring open-source contributions and writing around:
+
+* backend architecture
+* systems design
+* workflow orchestration
+* automation engineering
+* reliability engineering
+* operational software design
+
+---
+
+## Philosophy
+
+I’m interested in building software that survives real operational environments — systems that are observable, maintainable, fault-tolerant, and designed around actual workflows rather than demos.
+
+---
+
+## Portfolio
+
 https://habin-portfolio.vercel.app
 
-LinkedIn  
+## LinkedIn
+
 https://linkedin.com/in/habinrahman
 
-Email  
-habin936@gmail.com
+## Email
+
+[habin936@gmail.com](mailto:habin936@gmail.com)
 
 ---
 
