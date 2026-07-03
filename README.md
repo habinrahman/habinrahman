@@ -43,6 +43,44 @@ class HabinRahman:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<!-- ====================== WHAT I BUILD ====================== -->
+## 🚀 What I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Backend & Platform
+Production-grade systems built for **reliability at scale**.
+
+- 🔄 Workflow orchestration engines
+- 🧩 Stateful, event-driven services
+- 📊 Observability & operational tooling
+- ⚙️ Scheduler-driven automation
+- ♻️ Fault-tolerant distributed systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation Infrastructure
+Intelligent systems where **AI meets real operability**.
+
+- 🧠 LLM-integrated backend services
+- 🔍 Retrieval & vector-search pipelines
+- 📡 Inference observability & telemetry
+- 🔗 Autonomous, reply-aware workflows
+- 🎯 Structured AI orchestration
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 <!-- ====================== FOCUS AREAS ====================== -->
 ## 🎯 Areas I Like Working In
 
@@ -68,6 +106,13 @@ class HabinRahman:
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![pgvector](https://img.shields.io/badge/Vector_Search-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 ### 🚀 Backend & Platform
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
@@ -86,13 +131,8 @@ class HabinRahman:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -184,7 +224,6 @@ Streaming workloads • ingestion pipelines • operational dashboards • provi
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== SNAKE ====================== -->
-<!--
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -192,7 +231,8 @@ Streaming workloads • ingestion pipelines • operational dashboards • provi
 <img src="https://raw.githubusercontent.com/habinrahman/habinrahman/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
--->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== CONNECT ====================== -->
 ## 🤝 Let's Connect & Collaborate
