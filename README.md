@@ -146,6 +146,7 @@ Intelligent systems where **AI meets real operability**.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[![Live](https://img.shields.io/badge/🔴_Live-Visit_Site-22C55E?style=flat-square)](https://central.microdegree.work/)
 
 Enrollment lifecycle state machines • batch/session orchestration • Zoom-integrated live workflows • RBAC • audit logging • cron-driven automation • multi-portal architecture.
 
@@ -157,6 +158,7 @@ Enrollment lifecycle state machines • batch/session orchestration • Zoom-int
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Workflow Engine](https://img.shields.io/badge/Workflow_Engine-FF6B6B?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Scheduler](https://img.shields.io/badge/Scheduler-4B275F?style=flat-square&logo=clockify&logoColor=white)
+[![Live](https://img.shields.io/badge/🔴_Live-Visit_Site-22C55E?style=flat-square)](https://outreach.microdegree.work/)
 
 Scheduler-driven campaign sequencing • stateful workflow orchestration • autonomous follow-ups • reply intelligence & suppression • observability workflows • batch delivery systems.
 
