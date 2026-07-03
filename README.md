@@ -184,15 +184,15 @@ Streaming workloads • ingestion pipelines • operational dashboards • provi
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== SNAKE ====================== -->
-## 🐍 Contribution Snake
+/ ## 🐍 Contribution Snake
 
-<div align="center">
+/ <div align="center">
 
-<img src="https://raw.githubusercontent.com/habinrahman/habinrahman/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+/ <img src="https://raw.githubusercontent.com/habinrahman/habinrahman/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-</div>
+/ </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+/ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== CONNECT ====================== -->
 ## 🤝 Let's Connect & Collaborate
