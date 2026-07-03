@@ -146,6 +146,7 @@ Intelligent systems where **AI meets real operability**.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[![Live](https://img.shields.io/badge/●_LIVE-Visit_Site-22C55E?style=flat-square)](https://central.microdegree.work/)
 
 Enrollment lifecycle state machines • batch/session orchestration • Zoom-integrated live workflows • RBAC • audit logging • cron-driven automation • multi-portal architecture.
 
@@ -157,6 +158,7 @@ Enrollment lifecycle state machines • batch/session orchestration • Zoom-int
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Workflow Engine](https://img.shields.io/badge/Workflow_Engine-FF6B6B?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Scheduler](https://img.shields.io/badge/Scheduler-4B275F?style=flat-square&logo=clockify&logoColor=white)
+[![Live](https://img.shields.io/badge/●_LIVE-Visit_Site-22C55E?style=flat-square)](https://outreach.microdegree.work/)
 
 Scheduler-driven campaign sequencing • stateful workflow orchestration • autonomous follow-ups • reply intelligence & suppression • observability workflows • batch delivery systems.
 
@@ -192,6 +194,19 @@ Resume intelligence workflows • AI career guidance • retrieval & vector-sear
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 Streaming workloads • ingestion pipelines • operational dashboards • provider abstraction • inference telemetry.
+
+---
+
+### 🔐 Certificate Verification System
+> Secure, scalable platform for issuing & verifying digital certificates.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![Live](https://img.shields.io/badge/●_LIVE-Visit_Site-22C55E?style=flat-square)](https://certificate.microdegree.in/)
+
+QR-based certificate verification • hash & signature checks • per-template layouts • batch issuance • cloud-deployed verification portal.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
