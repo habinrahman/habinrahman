@@ -1,215 +1,215 @@
-# Habin Rahman
+<!-- ====================== HEADER ====================== -->
+<div align="center">
 
-Backend & Platform Engineer building operational systems, workflow orchestration platforms, and AI-powered automation infrastructure.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Habin+Rahman+%F0%9F%91%8B;Backend+%26+Platform+Engineer;I+build+systems%2C+not+scripts;Reliability+is+a+feature+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-I enjoy designing systems where reliability, state management, observability, and real-world operability matter as much as feature development. My focus is on building production-grade backend platforms that solve operational problems at scale.
+<br/>
 
----
+**Backend & Platform Engineer** building operational systems, workflow orchestration platforms, and AI-powered automation infrastructure.
 
-## Areas I Like Working In
+<br/>
 
-* Backend Architecture
-* Distributed Systems
-* Platform Engineering
-* Workflow Orchestration
-* Operational Tooling
-* Reliability Engineering
-* Observability Systems
-* AI Infrastructure
-* Stateful Systems
-* Automation Platforms
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://habin-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/habinrahman)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habin936@gmail.com)
 
----
+</div>
 
-## Engineering Principles
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-* Reliability is a feature
-* Idempotency over optimism
-* Simplicity scales
-* Operability matters
-* Build systems, not scripts
-* State transitions should be explicit
-* Automation should be observable and explainable
-* Correctness beats unnecessary complexity
+<!-- ====================== ABOUT ====================== -->
+## 🧠 About Me
 
----
+I design systems where **reliability, state management, observability, and real-world operability** matter as much as feature development. My focus is building production-grade backend platforms that solve operational problems at scale.
 
-## Selected Systems
+```python
+class HabinRahman:
+    def __init__(self):
+        self.role         = "Backend & Platform Engineer"
+        self.focus        = ["Distributed Systems", "Workflow Orchestration", "AI Infra"]
+        self.stack        = ["FastAPI", "Phoenix", "Next.js", "PostgreSQL", "Docker", "AWS"]
+        self.philosophy   = "Design for scale. Build for reliability."
 
-### MicroDegree Hub
+    def principles(self):
+        return [
+            "Reliability is a feature",
+            "Idempotency over optimism",
+            "State transitions should be explicit",
+            "Build systems, not scripts",
+        ]
+```
 
-Production-style student operations and cohort orchestration platform built using Next.js, TypeScript, Supabase, PostgreSQL, and service-oriented backend architecture.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-Key capabilities:
+<!-- ====================== FOCUS AREAS ====================== -->
+## 🎯 Areas I Like Working In
 
-* Enrollment lifecycle state machines
-* Batch and session orchestration
-* Zoom-integrated live learning workflows
-* Role-based access control (RBAC)
-* Audit logging and operational tooling
-* Cron-driven automation pipelines
-* Student roadmap and onboarding systems
-* Multi-portal operational architecture
+<div align="center">
 
-Focus:
-platform engineering • operational systems • backend architecture • workflow orchestration • scalable monolith design
+| 🏗️ Backend Architecture | 🌐 Distributed Systems | ⚙️ Platform Engineering |
+|:---:|:---:|:---:|
+| **🔄 Workflow Orchestration** | **🛠️ Operational Tooling** | **📊 Observability Systems** |
+| **🧩 Stateful Systems** | **🤖 AI Infrastructure** | **♻️ Reliability Engineering** |
 
----
+</div>
 
-### Placement Outreach Automation Platform
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-Production-grade outreach automation and campaign sequencing platform designed for high-volume operational workflows.
+<!-- ====================== TECH STACK ====================== -->
+## ⚡ Tech Stack & Expertise
 
-Key capabilities:
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-* Scheduler-driven campaign sequencing
-* Stateful workflow orchestration
-* Autonomous follow-up systems
-* Reply intelligence and suppression logic
-* Analytics and operator tooling
-* Reliability controls and observability workflows
-* Email automation infrastructure
-* Batch processing and delivery systems
+### 🚀 Backend & Platform
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-Focus:
-workflow engines • distributed scheduling • automation infrastructure • backend systems
+### 🗄️ Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### AI Job Application Tracker
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-AI-powered job application intelligence platform built using Elixir/Phoenix, Gmail integrations, PostgreSQL, and automation workflows.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-Key capabilities:
+<!-- ====================== SELECTED SYSTEMS ====================== -->
+## 🛠️ Selected Systems
 
-* Gmail synchronization and classification
-* Interview/rejection detection workflows
-* Analytics dashboards and tracking
-* Application intelligence pipelines
-* Reply-aware automation systems
-* Operational monitoring and workflow orchestration
+### 🎓 MicroDegree Hub
+> Production-style student operations & cohort orchestration platform.
 
-Focus:
-intelligent workflows • operational automation • backend systems • platform tooling
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
-### MyCareer AI
-
-AI-powered resume intelligence and career mentorship platform built using FastAPI, Next.js, PostgreSQL, Supabase, and modern AI infrastructure.
-
-Key capabilities:
-
-* Resume intelligence workflows
-* AI-powered career guidance
-* Retrieval and vector-search systems
-* LLM-integrated backend services
-* Structured AI workflow orchestration
-
-Focus:
-LLM systems • retrieval workflows • AI infrastructure • intelligent automation
-
----
-
-### Competition Tracker
-
-Automated intelligence and monitoring platform designed for competitive research and signal tracking.
-
-Key capabilities:
-
-* Multi-source ingestion pipelines
-* Scheduled intelligence workflows
-* Filtering and deduplication systems
-* Automated email reporting
-* Signal monitoring and classification
-
-Focus:
-automation • data pipelines • scheduled intelligence • monitoring systems
+Enrollment lifecycle state machines • batch/session orchestration • Zoom-integrated live workflows • RBAC • audit logging • cron-driven automation • multi-portal architecture.
 
 ---
 
-## Systems I Like Building
+### 📣 Placement Outreach Automation Platform
+> Production-grade outreach automation & campaign sequencing for high-volume workflows.
 
-* Scheduler-driven systems
-* Stateful workflow engines
-* Observable backend services
-* Event-oriented architectures
-* Fault-tolerant operational software
-* Internal tooling platforms
-* Automation infrastructure
-* AI-assisted operational systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Workflow Engine](https://img.shields.io/badge/Workflow_Engine-FF6B6B?style=flat-square&logo=apacheairflow&logoColor=white)
+![Scheduler](https://img.shields.io/badge/Scheduler-4B275F?style=flat-square&logo=clockify&logoColor=white)
+
+Scheduler-driven campaign sequencing • stateful workflow orchestration • autonomous follow-ups • reply intelligence & suppression • observability workflows • batch delivery systems.
 
 ---
 
-## Technical Focus
+### 📬 AI Job Application Tracker
+> AI-powered job application intelligence platform.
 
-### Languages
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-Python • TypeScript • JavaScript • Java • SQL • Elixir
-
-### Backend & Platform
-
-FastAPI • Spring Boot • Node.js • Phoenix • Next.js
-
-### Data & Infrastructure
-
-PostgreSQL • MySQL • Supabase • Drizzle ORM • pgvector
-
-### Cloud & DevOps
-
-Docker • AWS • DigitalOcean • CI/CD • Cron Infrastructure
-
-### AI & Automation
-
-OpenAI • Retrieval Systems • Workflow Automation • OpenCV
+Gmail sync & classification • interview/rejection detection • analytics dashboards • reply-aware automation • operational monitoring & orchestration.
 
 ---
 
-## Current Interests
+### 🧠 MyCareer AI
+> AI-powered resume intelligence & career mentorship platform.
 
-Currently exploring:
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-* Distributed systems design
-* Platform reliability engineering
-* Workflow orchestration systems
-* AI agents and autonomous workflows
-* Systems architecture
-* Event-driven backend systems
-* Infrastructure observability
+Resume intelligence workflows • AI career guidance • retrieval & vector-search • LLM-integrated backend services • structured AI orchestration.
 
 ---
 
-## Open Source & Writing
+### 📊 Ollive Inference Platform
+> Lightweight AI inference observability & telemetry platform.
 
-Exploring open-source contributions and writing around:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-* backend architecture
-* systems design
-* workflow orchestration
-* automation engineering
-* reliability engineering
-* operational software design
+Streaming workloads • ingestion pipelines • operational dashboards • provider abstraction • inference telemetry.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## Philosophy
+<!-- ====================== ENGINEERING PRINCIPLES ====================== -->
+## 📐 Engineering Principles
 
-I’m interested in building software that survives real operational environments — systems that are observable, maintainable, fault-tolerant, and designed around actual workflows rather than demos.
+<div align="center">
 
----
+> 🎯 **Reliability is a feature** &nbsp;•&nbsp; 🔁 **Idempotency over optimism** &nbsp;•&nbsp; 📉 **Simplicity scales**
+>
+> 🧭 **Operability matters** &nbsp;•&nbsp; 🏗️ **Build systems, not scripts** &nbsp;•&nbsp; 🔀 **State transitions should be explicit**
+>
+> 👁️ **Automation should be observable** &nbsp;•&nbsp; ✅ **Correctness beats unnecessary complexity**
 
-## Portfolio
+</div>
 
-https://habin-portfolio.vercel.app
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## LinkedIn
+<!-- ====================== CURRENTLY EXPLORING ====================== -->
+## 🔭 Currently Exploring
 
-https://linkedin.com/in/habinrahman
+<div align="center">
 
-## Email
+🌐 Distributed Systems Design &nbsp;•&nbsp; ♻️ Platform Reliability Engineering &nbsp;•&nbsp; 🔄 Workflow Orchestration
 
-[habin936@gmail.com](mailto:habin936@gmail.com)
+🤖 AI Agents & Autonomous Workflows &nbsp;•&nbsp; ⚡ Event-Driven Backends &nbsp;•&nbsp; 👁️ Infrastructure Observability
 
----
+</div>
 
-Design for scale. Build for reliability.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ====================== SNAKE ====================== -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/habinrahman/habinrahman/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ====================== CONNECT ====================== -->
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I build software that survives real operational environments — observable, maintainable, fault-tolerant, and designed around actual workflows rather than demos.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://habin-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/habinrahman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/habinrahman)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habin936@gmail.com)
+
+<br/><br/>
+
+### ⚡ *Design for scale. Build for reliability.*
+
+</div>
