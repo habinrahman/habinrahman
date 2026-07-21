@@ -2,12 +2,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Habin+Rahman+%F0%9F%91%8B;Backend+%26+Platform+Engineer;I+build+systems%2C+not+scripts;Reliability+is+a+feature+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Habin+Rahman+👋;Backend+%26+AI+Systems+Engineer;Building+Reliable+Backend+Systems;Designing+Intelligent+AI+Applications;Build+Systems.+Automate+Everything." alt="Typing SVG" />
 </a>
 
 <br/>
 
-**Backend & Platform Engineer** building operational systems, workflow orchestration platforms, and AI-powered automation infrastructure.
+**Backend & AI Systems Engineer** building production backend platforms, AI-powered applications, and intelligent automation systems.
 
 <br/>
 
@@ -20,96 +20,129 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== ABOUT ====================== -->
-## 🧠 About Me
 
-I design systems where **reliability, state management, observability, and real-world operability** matter as much as feature development. My focus is building production-grade backend platforms that solve operational problems at scale.
+# 🧠 About Me
 
+I build software where **backend engineering, AI, and automation** come together.
+
+My focus is designing systems that are reliable, observable, and production-ready—from backend APIs and workflow orchestration to AI-powered applications and intelligent automation.
+
+I enjoy solving operational problems by combining modern backend architecture with AI, building systems that automate work instead of simply exposing APIs.
+
+```python
 class HabinRahman:
+
     def __init__(self):
         self.role = "Backend & AI Systems Engineer"
 
         self.focus = [
-            "Agentic AI",
-            "LLM Applications",
             "Backend Engineering",
+            "AI Systems",
             "Workflow Orchestration",
-            "AI Infrastructure"
+            "Automation",
+            "Observability"
         ]
 
-        self.stack = [
+        self.languages = [
             "Python",
+            "TypeScript",
+            "Java",
+            "Elixir",
+            "SQL"
+        ]
+
+        self.tech = [
             "FastAPI",
-            "LangGraph",
             "Phoenix",
+            "Next.js",
             "PostgreSQL",
             "Docker",
             "OpenAI"
         ]
 
-        self.philosophy = "Build intelligent systems that are reliable, observable, and production-ready."
+        self.currently_learning = [
+            "Agentic AI",
+            "LangGraph",
+            "Model Context Protocol (MCP)",
+            "AI Evaluation"
+        ]
 
-    def principles(self):
+        self.philosophy = (
+            "Build reliable systems that automate real work."
+        )
+
+    def engineering_principles(self):
         return [
             "Reliability is a feature",
-            "Build systems, not scripts",
-            "AI should use tools, not just prompts",
+            "Automation over repetition",
+            "Observability enables confidence",
             "State transitions should be explicit",
-            "Observability enables autonomy"
+            "Build systems, not scripts"
         ]
+```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== WHAT I BUILD ====================== -->
-## 🚀 What I Build
+
+# 🚀 What I Build
 
 <div align="center">
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🏗️ Backend & Platform
-Production-grade systems built for **reliability at scale**.
+### ⚙️ Backend Systems
 
-- 🔄 Workflow orchestration engines
-- 🧩 Stateful, event-driven services
-- 📊 Observability & operational tooling
-- ⚙️ Scheduler-driven automation
-- ♻️ Fault-tolerant distributed systems
+Building scalable backend services designed for production.
+
+- FastAPI & Phoenix APIs
+- Stateful backend services
+- Workflow orchestration
+- Background workers & schedulers
+- Database design & optimization
+- Cloud-native deployments
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🤖 AI & Automation Infrastructure
-Intelligent systems where **AI meets real operability**.
+### 🤖 AI Systems
 
-- 🧠 LLM-integrated backend services
-- 🔍 Retrieval & vector-search pipelines
-- 📡 Inference observability & telemetry
-- 🔗 Autonomous, reply-aware workflows
-- 🎯 Structured AI orchestration
+Applying AI to automate real-world workflows.
+
+- LLM-powered applications
+- AI workflow automation
+- Retrieval-Augmented Generation (RAG)
+- AI integrations & tool calling
+- Inference monitoring
+- Intelligent operational workflows
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ====================== FOCUS AREAS ====================== -->
-## 🎯 Areas I Like Working In
+<!-- ====================== INTERESTS ====================== -->
+
+# 🎯 Areas of Interest
 
 <div align="center">
 
-| 🏗️ Backend Architecture | 🌐 Distributed Systems | ⚙️ Platform Engineering |
-|:---:|:---:|:---:|
-| **🔄 Workflow Orchestration** | **🛠️ Operational Tooling** | **📊 Observability Systems** |
-| **🧩 Stateful Systems** | **🤖 AI Infrastructure** | **♻️ Reliability Engineering** |
+| Backend Engineering | AI Systems | Agentic AI |
+| :---: | :---: | :---: |
+| Workflow Orchestration | Distributed Systems | Platform Engineering |
+| Observability | Automation | Reliability Engineering |
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ====================== TECH STACK ====================== -->
 ## ⚡ Tech Stack & Expertise
