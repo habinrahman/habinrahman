@@ -279,8 +279,7 @@ Lightweight AI inference observability & telemetry platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9&ring_color=22C55E" height="165"/>
-<img src="https://streak-stats.demolab.com?user=habinrahman&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9" height="165"/>
 
 <br/>
 
