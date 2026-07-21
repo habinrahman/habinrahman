@@ -275,17 +275,9 @@ Lightweight AI inference observability & telemetry platform.
 
 ---
 
-## GitHub Analytics
+## Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=habinrahman&theme=github-compact&bg_color=0D1117&color=22C55E&line=22C55E&point=C9D1D9&hide_border=true" width="100%"/>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/habinrahman/habinrahman/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
