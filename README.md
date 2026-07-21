@@ -24,22 +24,38 @@
 
 I design systems where **reliability, state management, observability, and real-world operability** matter as much as feature development. My focus is building production-grade backend platforms that solve operational problems at scale.
 
-```python
 class HabinRahman:
     def __init__(self):
-        self.role         = "Backend & Platform Engineer"
-        self.focus        = ["Distributed Systems", "Workflow Orchestration", "AI Infra"]
-        self.stack        = ["FastAPI", "Phoenix", "Next.js", "PostgreSQL", "Docker", "AWS"]
-        self.philosophy   = "Design for scale. Build for reliability."
+        self.role = "Backend & AI Systems Engineer"
+
+        self.focus = [
+            "Agentic AI",
+            "LLM Applications",
+            "Backend Engineering",
+            "Workflow Orchestration",
+            "AI Infrastructure"
+        ]
+
+        self.stack = [
+            "Python",
+            "FastAPI",
+            "LangGraph",
+            "Phoenix",
+            "PostgreSQL",
+            "Docker",
+            "OpenAI"
+        ]
+
+        self.philosophy = "Build intelligent systems that are reliable, observable, and production-ready."
 
     def principles(self):
         return [
             "Reliability is a feature",
-            "Idempotency over optimism",
-            "State transitions should be explicit",
             "Build systems, not scripts",
+            "AI should use tools, not just prompts",
+            "State transitions should be explicit",
+            "Observability enables autonomy"
         ]
-```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
