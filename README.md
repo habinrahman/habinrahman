@@ -25,6 +25,18 @@
 
 <br/>
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habinrahman&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=habinrahman&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E)
+
+</div>
+
+<br/>
+
 ---
 
 ## About
@@ -193,6 +205,10 @@ flowchart LR
 ---
 
 ## Featured Projects
+
+<br/>
+
+> **Pin these on your profile:** [AI-CSV-IMPORTER](https://github.com/habinrahman/AI-CSV-IMPORTER) · [RLS Inspector](https://github.com/habinrahman/rls-inspector) · [MyCareer-AI](https://github.com/habinrahman/MyCareer-AI)
 
 <br/>
 
