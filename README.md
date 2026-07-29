@@ -13,25 +13,13 @@
 <br/>
 
 <a href="https://habin-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logoColor=22C55E&labelColor=0D1117&color=161B22" height="28"/></a>
-<a href="https://linkedin.com/in/habinrahman"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22C55E&labelColor=0D1117&color=161B22" height="28"/></a>
+<a href="https://www.linkedin.com/in/habinrahman/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22C55E&labelColor=0D1117&color=161B22" height="28"/></a>
 <a href="mailto:habin936@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22C55E&labelColor=0D1117&color=161B22" height="28"/></a>
 <a href="https://github.com/habinrahman"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=22C55E&labelColor=0D1117&color=161B22" height="28"/></a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=habinrahman&style=flat-square&color=22C55E&label=Profile+Views" height="20"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habinrahman&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=habinrahman&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E)
 
 </div>
 
@@ -208,11 +196,31 @@ flowchart LR
 
 <br/>
 
-> **Pin these on your profile:** [AI-CSV-IMPORTER](https://github.com/habinrahman/AI-CSV-IMPORTER) · [RLS Inspector](https://github.com/habinrahman/rls-inspector) · [MyCareer-AI](https://github.com/habinrahman/MyCareer-AI)
-
-<br/>
-
 <table>
+<tr><td colspan="2">
+
+### 🚀 GrowEasy AI CSV Importer — flagship OSS
+LLM-powered CSV importer that maps **any** lead export into a fixed CRM schema — no column config.
+
+**Architecture** — Next.js UI → Express API → OpenAI Structured Outputs with Zod validation, streaming parse, batched AI calls with retry/bisection, SSE live progress, optional Supabase persistence.
+**Stack** — `TypeScript` `Next.js` `Express` `OpenAI` `Drizzle` `Vitest` `Playwright`
+**Highlights** — 186 tests · golden-set eval harness · semantic field mapping ("values win over headers") · Docker + Railway/Vercel ready
+
+[Repository](https://github.com/habinrahman/AI-CSV-IMPORTER) · [Release v0.1.0](https://github.com/habinrahman/AI-CSV-IMPORTER/releases/tag/v0.1.0)
+
+</td></tr>
+<tr><td colspan="2">
+
+### 🛡️ RLS Inspector — Supabase security debugger
+Visual debugger for Row Level Security policies — catches missing `WITH CHECK`, `USING (true)`, and other common mistakes with copy-paste SQL fixes.
+
+**Architecture** — client-side React SPA → PostgREST RPCs → four read-only `SECURITY DEFINER` SQL helpers. Credentials never leave the browser.
+**Stack** — `React` `Vite` `Tailwind CSS` `Supabase` `Vitest`
+**Highlights** — 6 static analysis rules · 14 unit tests · zero backend · MIT licensed
+
+[Repository](https://github.com/habinrahman/rls-inspector) · [Release v1.0.0](https://github.com/habinrahman/rls-inspector/releases/tag/v1.0.0)
+
+</td></tr>
 <tr><td colspan="2">
 
 ### 🎓 MicroDegree Hub
@@ -301,16 +309,22 @@ Lightweight AI inference observability & telemetry platform.
 
 <br/>
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habinrahman&layout=compact&theme=tokyonight)
+
+</div>
+
+<br/>
+
 ---
 
-## Open Source & Tools
-
-Small tools built to solve a real problem, not to pad a portfolio.
+## More Open Source
 
 | Project | What it does |
 |---|---|
-| [**AI CSV Importer**](https://github.com/habinrahman/AI-CSV-IMPORTER) | LLM-powered CSV importer mapping any lead CSV into a CRM schema — semantic field mapping, streaming parse, batched + retried AI calls, SSE progress, and a golden-set eval harness. |
-| [**RLS Inspector**](https://github.com/habinrahman/rls-inspector) | Visual debugger for Supabase Row Level Security policies — catches missing `WITH CHECK` clauses and overly-permissive rules. |
 | [**Competition Tracker**](https://github.com/habinrahman/competition-tracker) | Automated intelligence platform tracking EdTech, Cloud/DevOps, and GenAI updates with dedup and scheduled email digests. |
 
 <br/>
@@ -340,7 +354,7 @@ Not active yet. When there's something worth publishing about production agentic
 Open to roles and collaborations at the intersection of backend engineering and agentic AI.
 
 <a href="https://habin-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logoColor=22C55E&labelColor=0D1117&color=161B22" height="28"/></a>
-<a href="https://linkedin.com/in/habinrahman"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22C55E&labelColor=0D1117&color=161B22" height="28"/></a>
+<a href="https://www.linkedin.com/in/habinrahman/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22C55E&labelColor=0D1117&color=161B22" height="28"/></a>
 <a href="mailto:habin936@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22C55E&labelColor=0D1117&color=161B22" height="28"/></a>
 
 <br/><br/>
