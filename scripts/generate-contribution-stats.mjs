@@ -19,15 +19,10 @@ query ($login: String!) {
     name
     contributionsCollection {
       contributionCalendar { totalContributions }
-      totalCommitContributions
       totalPullRequestContributions
-      totalIssueContributions
-      totalPullRequestReviewContributions
-      restrictedContributionsCount
     }
-    repositories(first: 100, ownerAffiliations: OWNER) {
+    repositories(first: 1, ownerAffiliations: OWNER) {
       totalCount
-      nodes { stargazerCount }
     }
   }
 }`;
@@ -64,15 +59,11 @@ async function fetchStats() {
 function buildSvg(user) {
   const cc = user.contributionsCollection;
   const totalContributions = cc.contributionCalendar.totalContributions;
-  const stars = user.repositories.nodes.reduce((n, r) => n + r.stargazerCount, 0);
   const displayName = user.name ?? USERNAME;
 
   const rows = [
     ["Total Contributions (last year)", totalContributions],
     ["Pull Requests", cc.totalPullRequestContributions],
-    ["Issues", cc.totalIssueContributions],
-    ["Code Reviews", cc.totalPullRequestReviewContributions],
-    ["Stars Earned", stars],
     ["Public Repositories", user.repositories.totalCount],
   ];
 
