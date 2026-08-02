@@ -311,7 +311,7 @@ Lightweight AI inference observability & telemetry platform.
 
 <div align="center">
 
-![GitHub Stats](./profile/github-stats.svg)
+![GitHub Contributions](./profile/github-stats.svg)
 
 ![Top Langs](./profile/top-langs.svg)
 

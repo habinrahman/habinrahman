@@ -10,21 +10,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
-          path: profile/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate contribution stats card
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: node scripts/generate-contribution-stats.mjs
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_rank=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Commit cards
         run: |
