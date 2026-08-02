@@ -311,9 +311,9 @@ Lightweight AI inference observability & telemetry platform.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habinrahman&show_icons=true&theme=tokyonight)
+![GitHub Stats](./profile/github-stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habinrahman&layout=compact&theme=tokyonight)
+![Top Langs](./profile/top-langs.svg)
 
 </div>
 
