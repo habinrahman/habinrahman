@@ -303,7 +303,7 @@ Lightweight AI inference observability & telemetry platform.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/habinrahman/habinrahman/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/habinrahman/habinrahman/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
