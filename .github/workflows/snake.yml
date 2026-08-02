@@ -13,7 +13,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GH_PAT }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2322C55E&color_dots=%23ebedf0,%23bbf7d0,%234ade80,%2322c55e,%2315803d
+            dist/github-contribution-grid-snake.svg?color_snake=%23bf91f3&color_dots=%23ebedf0,%23a5f3fc,%2338bdae,%2370a5fd,%23bf91f3
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
