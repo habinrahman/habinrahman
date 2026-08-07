@@ -29,7 +29,7 @@
 
 ## About
 
-I design backend systems that stay correct under real operational load — enrollment engines, outreach automation, verification infrastructure — and I'm now pointing that same discipline at agentic AI: systems where an LLM doesn't just respond, it plans, calls tools, and carries state across steps.
+I design backend systems that stay correct under real operational load, enrollment engines, outreach automation, verification infrastructure and I'm now pointing that same discipline at agentic AI: systems where an LLM doesn't just respond, it plans, calls tools, and carries state across steps.
 
 I care about the boundary most AI demos skip past — the part where a system has to keep working after the happy path ends.
 
